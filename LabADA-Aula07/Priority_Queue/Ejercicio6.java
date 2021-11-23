@@ -8,7 +8,6 @@ import java.util.*;
  * Descripcion	: Merge k sorted lists
  * Details		: You are given  an array of k  linked lists  lists,each  linked list  is sorted  in ascending  order .
 				  Merge  all  the  linked	lists  into one  sorted  linked list  and return  it .
- * Date	  		: 15/11/2021
  */
 
 public class Ejercicio6_Merge_k_Sorted_List {
